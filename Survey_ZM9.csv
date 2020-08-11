@@ -1,0 +1,454 @@
+Gender,education_level,Labour_availability,Off_farm_income,Livestock_ownership,Improved_seeds,Inorganic_fertilizer,Practice_used,Farm_size_ha,Yield_kg_ha
+Female,secondary,11,Yes,Yes,Yes,Yes,pesticides,5,1400
+Male,primary,4,Yes,Yes,No,Yes,nothing,1.5,1200
+Female,secondary,7,No,Yes,Yes,Yes,cultural,1.25,800
+Female,primary,7,Yes,Yes,Yes,Yes,pesticides,7,440
+Female,NA,3,Yes,No,No,Yes,pesticides,10,1000
+Female,secondary,3,Yes,No,No,Yes,nothing,0.5,0
+Male,secondary,1,No,No,No,No,NA,4,NA
+Male,primary,9,Yes,Yes,Yes,Yes,pesticides,5,933.33
+Male,secondary,5,No,Yes,Yes,Yes,pesticides + cultural,2,1250
+Male,secondary,7,Yes,Yes,Yes,Yes,cultural,2,500
+Male,secondary,8,Yes,Yes,Yes,Yes,pesticides,3,560
+Female,secondary,11,Yes,Yes,Yes,Yes,pesticides,0.75,1400
+Female,primary,7,Yes,Yes,Yes,Yes,pesticides + cultural,0.75,1900
+Male,primary,6,Yes,Yes,Yes,Yes,pesticides,3,1300
+Female,NA,9,Yes,Yes,Yes,Yes, pesticides + cultural,1,800
+Female,primary,5,Yes,Yes,Yes,Yes,cultural,1.5,2114.29
+Female,primary,7,Yes,Yes,Yes,Yes,pesticides,20,2400
+Female,primary,6,Yes,Yes,No,Yes,pesticides + cultural,20,1333.33
+Male,No_school,6,No,Yes,No,Yes,cultural,NA,400
+Male,primary,7,Yes,Yes,Yes,Yes,cultural,10,NA
+Male,secondary,4,No,Yes,Yes,Yes,pesticides,NA,933.33
+Female,primary,7,No,Yes,Yes,Yes, pesticides + cultural,NA,426.67
+Female,primary,6,Yes,Yes,Yes,Yes,cultural,NA,640
+Female,primary,9,No,Yes,Yes,Yes,pesticides + cultural,4,600
+Female,primary,6,Yes,No,Yes,Yes,cultural,NA,666.67
+Female,secondary,5,Yes,No,No,No,NA,NA,NA
+Female,primary,7,Yes,Yes,Yes,Yes,cultural,NA,400
+Female,primary,8,Yes,Yes,Yes,Yes,pesticides,NA,500
+Female,primary,7,No,Yes,Yes,Yes,pesticides,NA,533.33
+Female,primary,7,No,No,No,Yes,cultural,20,1500
+Male,secondary,4,Yes,Yes,No,No,nothing,NA,NA
+Male,secondary,4,Yes,Yes,Yes,Yes,pesticides + cultural,NA,1000
+Female,primary,5,Yes,Yes,Yes,Yes,cultural,NA,857.14
+Male,No_school,7,Yes,Yes,Yes,Yes,pesticides + cultural,NA,800
+Male,primary,5,No,Yes,Yes,Yes,cultural,NA,1000
+Female,primary,3,No,Yes,Yes,Yes,pesticides + cultural,NA,1333.33
+Male,primary,9,Yes,Yes,Yes,Yes,pesticides,NA,1714.29
+Female,primary,4,No,Yes,Yes,Yes,nothing,50,800
+Female,primary,4,No,Yes,Yes,Yes,cultural,50,1120
+Female,primary,8,No,Yes,Yes,Yes,cultural,1.5,216.67
+Male,primary,8,No,No,No,Yes,biologicals,NA,800
+Male,primary,6,No,Yes,Yes,Yes,nothing,4.5,400
+Female,primary,3,No,No,Yes,Yes,nothing,NA,1400
+Female,primary,9,Yes,Yes,Yes,Yes,cultural,NA,12300
+Female,No_school,8,No,Yes,Yes,Yes,cultural,NA,1280
+Male,primary,8,No,Yes,Yes,Yes,cultural,6,666.67
+Female,primary,8,Yes,Yes,No,Yes,pesticides,NA,1250
+Male,NA,12,No,Yes,No,Yes,NA,6,0
+Male,secondary,5,No,Yes,No,Yes,pesticides,NA,1000
+Female,primary,5,No,No,No,Yes,cultural,NA,500
+Male,NA,7,No,Yes,No,Yes,nothing,NA,700
+Male,NA,4,No,No,No,Yes,cultural,NA,100
+Female,NA,5,No,Yes,No,Yes,cultural,NA,1800
+Female,No_school,3,No,Yes,No,No,NA,NA,NA
+Female,primary,6,No,Yes,No,Yes,nothing,3,200
+Male,No_school,4,Yes,Yes,No,Yes,NA,NA,400
+Female,No_school,11,No,Yes,No,Yes,cultural,NA,3000
+Female,NA,4,No,No,No,Yes,NA,NA,500
+Female,primary,4,No,No,No,Yes,cultural,NA,200
+Male,secondary,6,Yes,Yes,Yes,Yes,pesticides,20,1225
+Male,secondary,1,Yes,Yes,No,No,cultural,30,NA
+Female,primary,6,Yes,No,No,No,pesticides,2,1200
+Female,primary,7,Yes,Yes,Yes,Yes,pesticides,6,500
+Female,secondary,7,Yes,Yes,Yes,Yes,cultural,4,575
+Male,primary,21,No,Yes,Yes,Yes,cultural,6,720
+Female,primary,2,Yes,No,Yes,Yes,pesticides,4,400
+Female,secondary,5,No,Yes,Yes,Yes,NA,3,1200
+Male,secondary,11,Yes,Yes,Yes,Yes,cultural,10,2125
+Male,secondary,9,Yes,Yes,No,Yes,cultural,5,1000
+Male,secondary,10,Yes,Yes,Yes,Yes,pesticides,7,1130.43
+Female,secondary,13,No,Yes,Yes,Yes,pesticides,6,750
+Male,primary,6,No,Yes,Yes,Yes,pesticides,10,600
+Male,secondary,10,Yes,No,Yes,Yes,cultural,3,2000
+Male,postsecondary,2,Yes,No,No,Yes,pesticides + cultural,40,3000
+Female,primary,5,No,Yes,No,Yes,pesticides,4,1250
+Female,No_school,4,No,Yes,No,Yes,pesticides,4,1066.67
+Female,primary,4,No,Yes,Yes,Yes,nothing,1.5,500
+Male,secondary,7,Yes,Yes,No,Yes,pesticides,1,3050
+Male,secondary,2,No,Yes,Yes,Yes,nothing,NA,800
+Female,primary,8,Yes,Yes,No,Yes,cultural,NA,300
+Male,primary,6,No,Yes,Yes,Yes,pesticides,NA,375
+Male,No_school,12,Yes,Yes,Yes,Yes,pesticides,NA,375
+Male,secondary,9,Yes,Yes,Yes,Yes,pesticides + cultural,NA,1000
+Male,NA,5,Yes,Yes,Yes,Yes,pesticides + cultural,4,375
+Male,secondary,7,No,No,No,Yes,pesticides,4,283.33
+Male,postsecondary,1,Yes,No,No,Yes,cultural,4,NA
+Male,secondary,5,Yes,Yes,Yes,Yes,pesticides,20,1333.33
+Male,primary,5,No,Yes,Yes,Yes,nothing,0.33,NA
+Female,secondary,14,Yes,Yes,No,Yes,pesticides,3,600
+Male,primary,11,No,Yes,Yes,Yes,pesticides,4,NA
+Male,secondary,5,Yes,Yes,No,Yes,nothing,NA,1666.67
+Female,postsecondary,8,No,Yes,Yes,Yes,cultural,4,225
+Male,secondary,13,Yes,No,Yes,Yes,biologicals,NA,500
+Male,primary,7,Yes,No,Yes,Yes,nothing,NA,800
+Female,postsecondary,8,Yes,Yes,No,No,cultural,NA,33.33
+Male,primary,1,Yes,Yes,No,Yes,pesticides + cultural,NA,1166.67
+Female,primary,2,Yes,No,No,No,pesticides + cultural,NA,150
+Female,primary,1,Yes,Yes,Yes,Yes,pesticides,8,875
+Male,secondary,4,No,Yes,Yes,Yes,nothing,3,187.5
+Female,secondary,5,No,Yes,No,Yes,pesticides,NA,1437.5
+Female,primary,2,Yes,Yes,No,Yes,pesticides,3,NA
+Female,postsecondary,5,No,Yes,No,Yes,pesticides + cultural,NA,2000
+Male,secondary,9,No,No,No,Yes,pesticides + cultural + biological,10,375
+Female,postsecondary,3,Yes,No,No,Yes,pesticides + cultural,0.5,5600
+Female,postsecondary,2,Yes,Yes,No,Yes, pesticides + cultural,12,1250
+Female,secondary,3,Yes,No,No,Yes,pesticides,1,5625
+Male,secondary,8,Yes,Yes,No,Yes,nothing,NA,3750
+Male,NA,3,No,Yes,Yes,Yes,pesticides,7,875
+Male,secondary,3,No,Yes,No,Yes,pesticides,8,1666.67
+Male,postsecondary,2,No,No,No,Yes,nothing,NA,1500
+Male,postsecondary,5,No,Yes,No,Yes,pesticides,4.8,6250
+Male,postsecondary,6,No,No,No,Yes,pesticides,NA,3000
+Male,postsecondary,8,Yes,Yes,Yes,Yes,pesticides,10.5,333.33
+Male,primary,4,No,Yes,Yes,Yes,pesticides,NA,2000
+Male,postsecondary,3,No,Yes,No,Yes,nothing,NA,450
+Female,secondary,85,No,Yes,Yes,Yes,pesticides + cultural,6,625
+Female,secondary,3,Yes,Yes,No,Yes,pesticides,NA,1000
+Male,secondary,0,No,No,No,Yes,pesticides,5,NA
+Female,secondary,9,Yes,Yes,No,Yes,pesticides,NA,10
+Male,primary,11,No,Yes,No,No,pesticides,4,NA
+Male,secondary,4,Yes,Yes,No,Yes,pesticides,NA,666.67
+Female,secondary,4,No,No,No,Yes,pesticides,12,41.67
+Male,postsecondary,0,No,Yes,Yes,Yes,cultural,6,1000
+Male,secondary,11,Yes,Yes,No,Yes,nothing,NA,2812.5
+Male,secondary,3,No,Yes,No,Yes,pesticides,NA,250
+Male,postsecondary,2,No,Yes,No,Yes,cultural,NA,14750
+Male,postsecondary,14,No,Yes,No,Yes,pesticides,4,350
+Female,postsecondary,16,No,Yes,Yes,Yes,pesticides,5,2000
+Female,secondary,0,No,Yes,Yes,Yes,NA,4,0
+Male,NA,5,Yes,Yes,Yes,Yes,pesticides,5,1875
+Male,secondary,5,Yes,Yes,No,Yes,pesticides + cultural,NA,375
+Male,No_school,35,Yes,Yes,No,Yes,nothing,NA,1400
+Male,NA,7,Yes,Yes,Yes,Yes,pesticides,1.5,400
+Male,secondary,2,Yes,Yes,No,Yes,pesticides,NA,250
+Male,primary,5,No,Yes,No,Yes,nothing,16,421.88
+Male,secondary,7,No,Yes,Yes,Yes,pesticides,5,133.33
+Male,primary,4,No,Yes,Yes,Yes,pesticides,5,750
+Male,secondary,3,No,Yes,No,Yes,pesticides,4,2500
+Male,secondary,74,Yes,Yes,No,Yes,pesticides,4,600
+Male,primary,8,Yes,Yes,No,No,pesticides,4,1050
+Male,primary,12,No,Yes,No,Yes,pesticides,4,150
+Male,primary,9,No,Yes,Yes,Yes,pesticides,6,375
+Male,secondary,6,No,No,No,Yes,pesticides,NA,150
+Male,secondary,3,No,Yes,Yes,Yes,cultural + biologicals,4,204.08
+Male,primary,5,No,No,Yes,Yes,pesticides,6,166.67
+Female,postsecondary,3,No,Yes,No,Yes,NA,7,114.29
+Female,postsecondary,2,No,Yes,No,Yes,pesticides,16,250
+Male,No_school,1,Yes,Yes,Yes,Yes,nothing,6,375
+Male,postsecondary,3,Yes,No,No,No,pesticides,4,NA
+Female,primary,6,No,Yes,No,Yes,nothing,NA,300
+Female,secondary,9,No,Yes,No,Yes,nothing,NA,0
+Female,primary,61,Yes,Yes,No,Yes,nothing,NA,625
+Female,primary,18,No,Yes,No,Yes,pesticides,4,750
+Female,primary,4,No,Yes,No,Yes,pesticides,NA,875
+Male,secondary,3,No,No,No,Yes,pesticides,NA,750
+Female,secondary,6,Yes,Yes,No,Yes,nothing,NA,500
+Female,No_school,4,No,Yes,No,Yes,nothing,NA,66.67
+Female,primary,2,No,No,No,Yes,nothing,NA,50
+Male,primary,4,No,Yes,No,Yes,nothing,NA,600
+Male,primary,4,No,Yes,No,Yes,nothing,NA,400
+Male,primary,5,No,Yes,No,No,nothing,NA,0
+Female,primary,6,No,Yes,No,Yes,nothing,NA,250
+Female,primary,7,No,Yes,No,Yes,nothing,NA,250
+Male,primary,6,No,Yes,No,Yes,nothing,NA,400
+Male,primary,7,No,Yes,No,Yes,nothing,NA,600
+Female,primary,6,No,Yes,No,Yes,nothing,NA,100
+Male,primary,7,No,Yes,Yes,Yes,pesticides + biologicals,4,750
+Male,primary,5,No,Yes,Yes,Yes,pesticides,3.5,428.57
+Male,secondary,8,No,Yes,Yes,Yes,pesticides,14,714.29
+Male,primary,22,No,Yes,Yes,Yes,nothing,NA,1550
+Male,primary,4,No,Yes,Yes,Yes,pesticides,NA,1333.33
+Male,primary,1,No,Yes,Yes,Yes,nothing,NA,375
+Male,primary,11,No,Yes,No,No,cultural,NA,550
+Male,primary,4,Yes,Yes,Yes,Yes,pesticides,4,325
+Female,secondary,14,Yes,Yes,Yes,Yes,pesticides + cultural,4,633.33
+Female,primary,12,No,Yes,Yes,Yes,pesticides + cultural,4,225
+Female,primary,11,No,Yes,Yes,Yes,pesticides,3,50
+Female,primary,4,Yes,Yes,Yes,Yes,nothing,NA,200
+Female,primary,4,No,Yes,Yes,Yes,pesticides,6,833.33
+Female,secondary,4,No,Yes,Yes,Yes,pesticides,NA,500
+Female,primary,3,No,Yes,Yes,Yes,cultural,NA,200
+Male,secondary,5,No,Yes,Yes,Yes,pesticides,NA,1000
+Male,secondary,3,No,Yes,Yes,Yes,nothing,NA,675
+Male,secondary,3,Yes,Yes,No,Yes,cultural,NA,1000
+Male,primary,7,Yes,Yes,Yes,Yes,pesticides + biologicals,NA,625
+Male,primary,6,Yes,Yes,Yes,Yes,cultural,NA,40
+Female,primary,4,No,Yes,Yes,Yes,biologicals,NA,443.35
+Female,secondary,7,No,Yes,Yes,Yes,pesticides + cultural,NA,1428.57
+Female,secondary,0,Yes,Yes,No,No,biologicals,NA,1125
+Female,primary,4,No,Yes,Yes,Yes,nothing,NA,375
+Female,No_school,7,No,Yes,No,No,cultural,NA,500
+Male,primary,3,No,Yes,Yes,Yes,pesticides,NA,1750
+Female,secondary,6,Yes,No,No,No,cultural,NA,562.5
+Female,No_school,6,No,Yes,No,Yes,nothing,6.5,3500
+Male,secondary,7,No,Yes,No,Yes,pesticides,NA,1375
+Male,secondary,3,No,Yes,No,Yes,biologicals,NA,250
+Male,primary,9,No,Yes,No,Yes,NA,NA,2000
+Male,secondary,6,No,Yes,No,Yes,pesticides,NA,500
+Female,secondary,5,No,Yes,No,No,pesticides,NA,700
+Female,secondary,8,No,Yes,No,No,pesticides,NA,116.67
+Female,primary,7,No,Yes,No,No,pesticides,NA,875
+Male,primary,8,Yes,Yes,No,Yes,pesticides,NA,200
+Female,primary,10,No,Yes,No,No,pesticides,2,2000
+Male,primary,7,Yes,Yes,No,Yes,nothing,NA,5000
+Female,secondary,5,No,No,No,Yes,nothing,NA,400
+Male,primary,3,No,No,No,Yes,nothing,NA,2000
+Male,secondary,5,Yes,Yes,No,Yes,nothing,NA,2500
+Female,primary,2,Yes,No,No,No,NA,NA,400
+Female,secondary,4,No,No,No,Yes,pesticides,NA,750
+Female,NA,3,No,Yes,No,No,nothing,NA,833.33
+Female,secondary,3,No,Yes,No,Yes,pesticides,8,250
+Male,primary,7,No,Yes,No,Yes,pesticides,2.5,2900
+Female,primary,9,No,Yes,No,No,pesticides + biologicals,1,300
+Female,secondary,3,No,Yes,No,Yes,pesticides,3,2000
+Female,primary,5,Yes,Yes,No,Yes,nothing,2.8,1400
+Female,primary,14,Yes,Yes,No,Yes,pesticides,6,5000
+Male,primary,5,No,Yes,No,Yes,pesticides,NA,5000
+Male,primary,14,No,Yes,No,Yes,pesticides,5,1416.67
+Male,secondary,10,No,Yes,No,Yes,pesticides,7,2500
+Male,secondary,2,No,Yes,No,Yes,pesticides,1.5,15000
+Female,primary,9,Yes,Yes,No,Yes,pesticides,1,857.14
+Male,secondary,2,No,Yes,No,Yes,pesticides,10,5750
+Male,secondary,8,No,Yes,No,Yes,pesticides,NA,7000
+Male,secondary,5,Yes,Yes,No,Yes,nothing,4,3466.67
+Female,primary,8,No,No,No,Yes,nothing,2,1066.67
+Male,secondary,7,No,Yes,Yes,Yes,pesticides + cultural,5,2066.67
+Male,secondary,5,Yes,Yes,No,No,cultural,3,NA
+Male,secondary,1,No,Yes,No,Yes,pesticides + cultural,16,500
+Male,primary,5,Yes,Yes,No,No,cultural,3,3000
+Male,secondary,7,Yes,Yes,No,Yes,biologicals,6,1250
+Male,primary,2,Yes,Yes,No,Yes,cultural,5,600
+Male,secondary,4,Yes,Yes,No,Yes,cultural,3,800
+Male,secondary,10,Yes,Yes,Yes,Yes,pesticides + cultural,9,1533.33
+Male,secondary,9,Yes,Yes,Yes,Yes,pesticides + cultural,7,1050
+Male,secondary,4,Yes,Yes,No,Yes,pesticides + cultural,12,1066.67
+Male,primary,8,Yes,Yes,Yes,Yes,cultural,10,1600
+Male,primary,5,Yes,Yes,Yes,Yes,pesticides + cultural,5,1000
+Male,NA,4,No,Yes,Yes,Yes,pesticides + cultural,7,466.67
+Male,secondary,12,Yes,Yes,Yes,Yes,pesticides + cultural,5,350
+Male,secondary,4,Yes,Yes,Yes,Yes,cultural,15,517.65
+Female,NA,11,Yes,Yes,No,No,nothing,NA,NA
+Male,primary,8,Yes,Yes,No,No,nothing,2,NA
+Male,secondary,10,No,Yes,Yes,Yes,pesticides,7,1000
+Female,primary,5,No,Yes,No,Yes,cultural,1,600
+Male,primary,7,Yes,Yes,No,No,cultural,NA,NA
+Female,primary,6,No,No,No,No,nothing,NA,NA
+Female,primary,5,No,Yes,No,No,cultural,0.25,NA
+Male,primary,3,Yes,Yes,No,No,cultural,NA,NA
+Female,primary,6,No,Yes,No,Yes,cultural,1,NA
+Male,primary,5,No,Yes,No,No,cultural,NA,1000
+Male,primary,6,Yes,Yes,No,No,nothing,NA,NA
+Female,primary,7,Yes,No,No,No,cultural,0.19,533.33
+Male,primary,5,Yes,Yes,No,No,cultural,NA,NA
+Male,primary,3,Yes,No,No,Yes,cultural,NA,NA
+Male,primary,8,Yes,Yes,No,No,cultural,NA,533.33
+Male,primary,7,No,No,No,No,cultural,NA,500
+Male,primary,7,Yes,No,No,No,cultural,NA,NA
+Male,primary,11,Yes,Yes,Yes,Yes,pesticides + cultural,30,1000
+Female,primary,7,Yes,No,Yes,Yes,pesticides + cultural,NA,0
+Male,primary,9,Yes,No,No,No,cultural,5,NA
+Male,No_school,8,Yes,Yes,Yes,Yes,cultural + biologicals,3,NA
+Male,primary,6,No,Yes,Yes,Yes,pesticides + cultural,10,400
+Male,primary,7,Yes,Yes,No,No,cultural,5,133.33
+Male,No_school,5,Yes,Yes,No,No,cultural,NA,200
+Male,secondary,3,No,Yes,Yes,Yes,pesticides,10,666.67
+Male,NA,7,No,Yes,No,No,pesticides,10,1200
+Male,primary,7,No,Yes,No,No,cultural,20,NA
+Male,NA,4,No,Yes,No,No,cultural,1.25,1958.33
+Female,primary,3,No,Yes,No,Yes,pesticides + cultural,NA,1450
+Male,primary,8,No,Yes,No,Yes,pesticides,NA,450
+Male,NA,7,No,Yes,No,Yes,cultural,NA,500
+Female,NA,2,No,No,No,No,NA,NA,NA
+Male,NA,5,No,No,No,No,NA,NA,NA
+Male,primary,7,No,Yes,No,Yes,cultural,NA,150
+Female,NA,9,No,Yes,No,Yes,pesticides,NA,175
+Male,postsecondary,5,Yes,Yes,No,No,pesticides,35,2250
+Female,primary,7,No,Yes,No,Yes,pesticides + cultural,NA,100
+Male,primary,6,No,Yes,No,No,nothing,10,NA
+Female,primary,4,No,No,No,No,cultural,NA,100
+Male,No_school,7,No,Yes,No,Yes,cultural,NA,20
+Male,NA,3,No,Yes,No,No,NA,NA,NA
+Female,primary,6,No,Yes,No,Yes,cultural,NA,300
+Female,NA,6,No,No,No,Yes,pesticides,NA,600
+Female,No_school,8,No,No,No,No,NA,NA,NA
+Female,primary,1,No,Yes,No,Yes,cultural,NA,800
+Female,primary,5,No,Yes,No,Yes,cultural,NA,900
+Male,secondary,5,No,No,Yes,Yes,pesticides + cultural,15,800
+Male,secondary,9,Yes,Yes,Yes,Yes,pesticides + cultural,5,666.67
+Male,secondary,6,No,Yes,Yes,Yes,pesticides + cultural,2,500
+Male,primary,5,Yes,Yes,No,No,cultural,1.5,NA
+Male,secondary,6,Yes,Yes,Yes,Yes,cultural,30,750
+Male,primary,10,No,No,Yes,Yes,cultural,3,1000
+Male,primary,9,Yes,Yes,No,No,cultural,3,NA
+Female,primary,9,No,Yes,Yes,Yes,cultural,10,250
+Female,secondary,15,No,Yes,No,No,cultural,10,300
+Male,primary,8,No,Yes,Yes,Yes,cultural,3,6866.67
+Male,primary,5,Yes,Yes,No,No,cultural,2,NA
+Male,primary,10,Yes,Yes,No,No,cultural,1.5,0
+Male,primary,4,Yes,No,No,No,NA,1,NA
+Female,primary,30,Yes,No,No,No,cultural,6,600
+Male,primary,6,Yes,Yes,Yes,Yes,cultural,10,190.48
+Male,secondary,5,Yes,Yes,No,No,cultural,1,NA
+Male,secondary,5,Yes,Yes,No,Yes,nothing,10,250
+Male,primary,4,No,Yes,No,Yes,nothing,3,62.5
+Male,secondary,3,No,Yes,No,Yes,nothing,10,200
+Female,primary,6,No,Yes,No,No,NA,4,666.67
+Male,primary,6,No,Yes,No,Yes,pesticides,4,300
+Female,primary,5,No,Yes,No,No,nothing,5,NA
+Male,secondary,3,No,Yes,No,Yes,NA,NA,NA
+Male,primary,4,No,Yes,No,No,pesticides,NA,250
+Male,primary,0,Yes,No,No,No,nothing,5,NA
+Female,primary,3,No,Yes,No,No,nothing,6,700
+Female,secondary,4,No,Yes,Yes,Yes,pesticides + biologicals,NA,100
+Male,primary,2,No,Yes,No,Yes,nothing,NA,116.67
+Female,secondary,3,No,Yes,No,No,NA,6,NA
+Male,primary,2,No,Yes,No,No,nothing,5,NA
+Male,primary,2,No,Yes,No,No,nothing,2,0
+Female,secondary,8,Yes,Yes,Yes,No,nothing,3.5,120
+Female,secondary,2,No,Yes,Yes,Yes,nothing,3.5,233.33
+Female,secondary,3,Yes,Yes,No,No,NA,2.5,100
+Female,primary,4,Yes,Yes,No,Yes,NA,4,250
+Female,primary,2,No,Yes,No,Yes,nothing,3,125
+Male,secondary,10,No,Yes,Yes,Yes,nothing,8,150
+Male,primary,4,Yes,Yes,No,Yes,NA,2.5,500
+Female,primary,6,Yes,Yes,No,No,nothing,4,33.33
+Female,primary,6,Yes,Yes,No,Yes,NA,7,62.5
+Female,primary,10,No,Yes,No,No,cultural,15,205
+Male,primary,5,Yes,Yes,Yes,Yes,cultural,7,200
+Male,primary,7,Yes,Yes,Yes,Yes,nothing,6,416.67
+Male,primary,7,Yes,Yes,No,No,nothing,10,111.11
+Male,primary,5,Yes,Yes,Yes,Yes,nothing,5.5,300
+Female,primary,5,Yes,Yes,Yes,No,pesticides + biologicals,14,375
+Male,secondary,6,Yes,Yes,No,No,nothing,12,77.78
+Male,secondary,6,Yes,Yes,Yes,No,nothing,6,187.5
+Female,primary,6,No,Yes,No,No,nothing,5,375
+Female,secondary,2,No,Yes,No,No,cultural,1.5,500
+Male,primary,5,Yes,Yes,Yes,Yes,nothing,15,656.25
+Male,secondary,4,Yes,Yes,No,No,cultural + biologicals,11,843.75
+Male,secondary,4,No,Yes,Yes,No,cultural,11,900
+Female,secondary,6,Yes,Yes,Yes,No,nothing,1.25,900
+Female,secondary,78,Yes,Yes,No,No,pesticides,4,500
+Female,secondary,7,Yes,Yes,No,No,nothing,3,1166.67
+Female,secondary,6,Yes,Yes,Yes,No,pesticides,15,267.86
+Female,secondary,8,No,Yes,No,No,nothing,4,625
+Female,secondary,5,Yes,Yes,No,Yes,cultural,2,NA
+Female,primary,8,Yes,Yes,No,No,pesticides,7.5,NA
+Male,secondary,5,Yes,Yes,No,No,pesticides,3,1125
+Female,secondary,11,No,Yes,Yes,Yes,nothing,12,93.75
+Female,primary,5,Yes,Yes,No,No,nothing,3,83.33
+Male,primary,3,Yes,Yes,Yes,No,pesticides,3,375
+Male,primary,14,No,Yes,No,Yes,pesticides + biologicals,8,656.25
+Male,primary,7,Yes,Yes,No,No,pesticides,5,250
+Female,primary,12,No,Yes,No,No,cultural,5,450
+Male,secondary,12,No,Yes,No,No,cultural,5,400
+Male,primary,3,No,Yes,No,No,biologicals,2.5,175
+Male,primary,5,No,Yes,No,No,nothing,2,225
+Female,primary,9,No,Yes,No,No,nothing,3,150
+Male,secondary,1,No,Yes,No,No,pesticides,4,25
+Female,primary,3,No,No,No,No,nothing,5,450
+Female,primary,4,No,No,No,No,NA,3,250
+Female,primary,13,No,Yes,No,Yes,nothing,5,333.33
+Female,primary,8,No,Yes,No,Yes,nothing,2,1875
+Male,secondary,9,No,Yes,No,No,nothing,8,125
+Male,primary,8,No,Yes,No,No,NA,4,468.75
+Female,primary,5,No,Yes,No,Yes,pesticides,4,1000
+Female,primary,6,No,Yes,No,No,NA,3,1000
+Female,primary,12,No,Yes,No,No,NA,3,250
+Female,primary,5,No,Yes,No,No,nothing,6,312.5
+Female,primary,2,No,No,No,No,nothing,4,562.5
+Female,primary,4,No,Yes,No,No,nothing,3,333.33
+Female,primary,3,No,Yes,No,No,nothing,1,300
+Female,postsecondary,2,Yes,No,No,Yes,pesticides,NA,375
+Female,secondary,3,Yes,Yes,No,Yes,pesticides,2,1700
+Male,secondary,4,No,Yes,No,No,NA,2.5,NA
+Male,primary,3,No,Yes,No,Yes,pesticides,NA,700
+Male,primary,5,No,Yes,No,Yes,nothing,10,600
+Female,primary,7,No,No,No,No,nothing,NA,300
+Male,primary,6,Yes,Yes,Yes,Yes,pesticides,15,35.71
+Female,primary,6,Yes,Yes,Yes,Yes,biologicals,NA,111.11
+Male,secondary,9,No,Yes,No,Yes,nothing,NA,25
+Female,primary,6,No,Yes,Yes,Yes,nothing,NA,150
+Female,primary,5,No,Yes,No,Yes,nothing,7,100
+Female,primary,5,No,Yes,No,No,nothing,NA,100
+Male,primary,6,No,Yes,No,No,nothing,NA,37.5
+Male,secondary,1,No,Yes,No,Yes,nothing,NA,NA
+Male,secondary,5,No,Yes,No,Yes,NA,NA,75
+Female,primary,1,No,Yes,No,Yes,NA,NA,100
+Male,postsecondary,4,No,Yes,No,Yes,nothing,10,150
+Male,secondary,6,Yes,Yes,Yes,Yes,nothing,NA,NA
+Female,secondary,5,No,Yes,Yes,Yes,cultural,NA,166.67
+Male,postsecondary,14,No,Yes,No,Yes,nothing,NA,62.5
+Female,secondary,5,No,Yes,No,No,nothing,NA,0
+Female,postsecondary,4,Yes,Yes,No,Yes,NA,0.4,NA
+Male,postsecondary,6,Yes,No,Yes,Yes,nothing,0.25,600
+Female,postsecondary,4,No,Yes,Yes,Yes,nothing,24.5,20.41
+Female,postsecondary,8,Yes,Yes,Yes,Yes,NA,4,500
+Female,postsecondary,3,Yes,Yes,Yes,Yes,nothing,NA,937.5
+Female,secondary,7,Yes,Yes,Yes,Yes,pesticides,NA,87.5
+Female,NA,7,No,Yes,Yes,Yes,nothing,NA,400
+Female,secondary,8,Yes,Yes,Yes,Yes,NA,NA,525
+Female,secondary,5,No,Yes,No,No,NA,NA,250
+Female,secondary,7,Yes,Yes,No,No,NA,NA,375
+Female,primary,7,Yes,Yes,No,Yes,nothing,NA,1500
+Female,primary,5,Yes,Yes,No,No,NA,NA,187.5
+Male,primary,7,Yes,Yes,No,No,nothing,NA,321.43
+Male,secondary,6,Yes,Yes,Yes,Yes,nothing,NA,500
+Male,secondary,5,Yes,Yes,Yes,Yes,nothing,NA,937.5
+Female,secondary,10,Yes,Yes,No,Yes,nothing,NA,1000
+Male,secondary,9,Yes,Yes,No,No,NA,NA,340.91
+Female,secondary,5,No,Yes,No,No,NA,NA,150
+Female,secondary,10,No,Yes,Yes,Yes,nothing,NA,525
+Male,secondary,9,No,Yes,No,No,nothing,NA,3937.5
+Female,primary,3,Yes,Yes,Yes,No,nothing,NA,375
+Male,secondary,7,No,Yes,No,No,pesticides,NA,333.33
+Female,postsecondary,5,No,Yes,Yes,Yes,pesticides,NA,1000
+Male,secondary,8,No,Yes,No,No,NA,NA,93.75
+Female,secondary,4,Yes,Yes,No,Yes,pesticides,NA,1000
+Male,secondary,5,Yes,Yes,Yes,No,cultural,NA,375
+Female,primary,4,Yes,Yes,Yes,Yes,nothing,NA,1125
+Female,secondary,9,Yes,Yes,No,No,nothing,NA,93.75
+Female,primary,15,Yes,Yes,Yes,No,NA,NA,500
+Female,primary,12,Yes,Yes,Yes,No,NA,NA,187.5
+Male,secondary,5,Yes,Yes,Yes,Yes,NA,5,37.5
+Male,secondary,5,Yes,Yes,No,Yes,nothing,7,66.67
+Male,secondary,3,Yes,Yes,No,Yes,cultural,3,75
+Female,secondary,5,Yes,Yes,No,No,cultural,NA,66.67
+Male,secondary,5,Yes,Yes,No,Yes,nothing,2.5,0
+Female,secondary,4,Yes,Yes,Yes,Yes,cultural,3,150
+Female,secondary,5,Yes,Yes,Yes,Yes,nothing,3.5,16.67
+Female,primary,2,Yes,No,No,Yes,NA,3,0
+Male,secondary,7,No,Yes,Yes,Yes,cultural,6,50
+Female,primary,7,No,Yes,Yes,Yes,cultural,3,50
+Female,secondary,5,Yes,Yes,No,Yes,nothing,7,33.33
+Male,primary,5,No,Yes,No,Yes,NA,2.5,50
+Female,primary,2,No,Yes,No,Yes,NA,15,4.17
+Male,secondary,6,Yes,Yes,No,Yes,nothing,10,11.11
+Female,primary,6,Yes,Yes,No,Yes,cultural,3,0
+Female,secondary,10,Yes,Yes,Yes,Yes,nothing,8.5,70.31
+Male,primary,8,No,Yes,No,Yes,pesticides,4,137.5
+Male,secondary,7,No,Yes,No,Yes,pesticides,4,750
+Female,primary,3,No,Yes,No,Yes,pesticides,1,500
+Female,secondary,5,No,Yes,No,Yes,pesticides,5,400
+Male,secondary,10,No,Yes,No,No,pesticides,5,350
+Female,primary,9,No,Yes,No,Yes,nothing,4,300
+Male,primary,7,No,Yes,No,Yes,nothing,5,1500
+Male,primary,8,No,Yes,No,No,pesticides,8,100
+Female,secondary,6,No,Yes,No,Yes,nothing,3,300
+Male,secondary,10,No,Yes,No,Yes,NA,10,500
+Male,primary,1,No,Yes,No,Yes,nothing,1.5,500
+Male,primary,1,No,No,No,No,NA,2,375
+Male,primary,14,No,Yes,No,Yes,pesticides,3,75
+Male,primary,11,No,No,No,No,nothing,9,62.5
+Male,primary,8,No,Yes,No,Yes,nothing,10,566.67
