@@ -1,0 +1,55 @@
+---
+title: "Regression"
+output: html_notebook
+---
+
+``{r}
+library(readr)
+Survey_ZM9 <- read_csv("C:/Users/CChisonga/Desktop/Manuscript/Survey_ZM9.csv")
+View(Survey_ZM9)
+```
+
+```{r}
+Survey_ZM9$Gender<-as.factor(Survey_ZM9$Gender)
+Survey_ZM9$education_level<-as.factor(Survey_ZM9$education_level)
+Survey_ZM9$Off_farm_income<-as.factor(Survey_ZM9$Off_farm_income)
+Survey_ZM9$Livestock_ownership<-as.factor(Survey_ZM9$Livestock_ownership)
+Survey_ZM9$Improved_seeds<-as.factor(Survey_ZM9$Improved_seeds)
+Survey_ZM9$Inorganic_fertilizer<-as.factor(Survey_ZM9$Inorganic_fertilizer)
+Survey_ZM9$Practice_used<-as.factor(Survey_ZM9$Practice_used)
+str(Survey_ZM9)
+```
+
+```{r}
+Survey_ZM9<-na.omit(Survey_ZM9)
+str(Survey_ZM9)
+```
+
+```{r}
+xtabs(~Yield_kg_ha + Gender, data = Survey_ZM9)
+xtabs(~Yield_kg_ha + education_level, data = Survey_ZM9)
+xtabs(~Yield_kg_ha + Off_farm_income, data = Survey_ZM9)
+xtabs(~Yield_kg_ha + Practice_used, data = Survey_ZM9)
+xtabs(~Yield_kg_ha + Livestock_ownership, data = Survey_ZM9)
+xtabs(~Yield_kg_ha + Improved_seeds, data = Survey_ZM9)
+xtabs(~Yield_kg_ha + Inorganic_fertilizer, data = Survey_ZM9)
+xtabs(~Yield_kg_ha + Labour_availability, data = Survey_ZM9)
+```
+
+```{r}
+logistic <- glm(Yield_kg_ha ~ Gender, data = Survey_ZM9)
+summary(logistic)
+```
+
+```{r}
+logistic <- glm(Yield_kg_ha ~ . , data = Survey_ZM9)
+summary(logistic)
+```
+
+```{r}
+ll.null<-logistic$null.deviance/-2
+ll.proposed<-logistic$deviance/-2
+(ll.null - ll.proposed)/ll.null
+1-pchisq(2*(ll.proposed-ll.null), df=(length(logistic$coefficients)-1))
+```
+
